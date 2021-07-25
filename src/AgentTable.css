@@ -1,0 +1,23 @@
+.container {
+
+  padding: 30px;
+}
+.container .title {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.container .filterContainer .selectUser {
+  margin-right: 30px;
+}
+
+.container .filterContainer .text{
+   font-weight: 700;
+   font-size: 15px;
+}
+
+.filterContainer {
+  display: flex;
+  margin-bottom: 30px;
+}

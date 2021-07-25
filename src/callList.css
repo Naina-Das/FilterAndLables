@@ -1,0 +1,17 @@
+.callListContainer {
+  margin-top: 40px;
+ 
+  padding: 30px;
+}
+.callListContainer .text {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.callListContainer .label {
+  display: flex;
+  margin-bottom: 20px;
+}
+.callListContainer .label .btnContainer {
+  margin-left: 20px;
+}
