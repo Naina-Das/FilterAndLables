@@ -32,7 +32,7 @@ const Range = () => {
   return (
     <>
       <Slider
-        style={{ width: 600 }}
+        style={{ width: 400 }}
         marks={marks}
         onChange={onChange}
         range={true}
