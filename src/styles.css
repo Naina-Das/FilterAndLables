@@ -6,3 +6,7 @@
 body {
   background-color: rgb(206, 222, 246);
 }
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
